@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding-top: 70px;
+	padding-bottom: 150px;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 30px auto; /* auto to horizontally center the element within its container */
+}
